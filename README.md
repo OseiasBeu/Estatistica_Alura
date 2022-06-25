@@ -56,4 +56,16 @@
 - Testes para duas amostras
 - Não paramétricos
 ---
+## Regressão linear: testando relações e prevendo resultados
+
+**Módulos**
+
+- Análises preliminares Ver primeiro vídeo
+- Comportamento da variável dependente
+- Variável dependente vs Variáveis explicativas
+- Datasets de treino e teste
+- Comparando modelos
+- Salvando e carregando o modelo
+- Projeto final
+---
 ## 
