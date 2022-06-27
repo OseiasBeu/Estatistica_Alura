@@ -68,4 +68,14 @@
 - Salvando e carregando o modelo
 - Projeto final
 ---
-## 
+## Regressão Linear: técnicas avançadas de modelagem
+
+**Módulos**
+
+- Análises preliminares
+- Análises gráficas
+- Transformação de variáveis
+- Regressão linear com StatsModels
+- Regressão linear com Scikit Learn
+---
+##
